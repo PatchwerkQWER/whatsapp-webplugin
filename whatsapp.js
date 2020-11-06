@@ -81,7 +81,6 @@
 
 		if (this.options.button.icon) {
 			temp = document.querySelectorAll('.whatsappplugin-button svg')[0];
-			console.log(temp);
 			temp.className = 'whatsappplugin-button-icon';
 		}
 
