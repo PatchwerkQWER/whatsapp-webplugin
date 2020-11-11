@@ -359,3 +359,7 @@
 	z-index: 1;
 	color: rgb(255, 255, 255);
 }
+
+@media only screen and (max-width: 380px) {
+	.whatsappplugin-messenger { width: calc(100vw - 40px); }
+}
